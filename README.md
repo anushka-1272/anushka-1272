@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka
 - 👀 I’m interested in technical development
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning Data Analysis and want to explore more in it.
 - 📫 Reach to me at anushka12702@gmail.com
 
 <!---
